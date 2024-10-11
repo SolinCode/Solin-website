@@ -307,7 +307,7 @@
     padding: 10px;
     border-radius: 15px;
     cursor: pointer;
-    background-color: var(--bg-header-blur);
+    background-color: var(--bg-copy-blur);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
     white-space: nowrap;

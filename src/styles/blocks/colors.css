@@ -7,6 +7,7 @@
         --bg-secondary: #F9F9F9;
     
         --bg-header-blur: #ffffff99;
+        --bg-copy-blur: #F9F9F999;
     }
 }
 
@@ -19,5 +20,6 @@
         --bg-secondary: #161616;
     
         --bg-header-blur: #00000099;
+        --bg-copy-blur: #16161699;
     }
 }
